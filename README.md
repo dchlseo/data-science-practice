@@ -1,2 +1,2 @@
 # DataScienceProjects
-For storing mini data analysis projects
+For storing mini data science projects, tutorials, etc.
